@@ -45,7 +45,3 @@
 <p align="left"><a href="https://www.patreon.com/davfix" target="_blank"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" height="36" style="margin-right: 4px"></a> <a href="https://buymeacoffee.com/davigomesgy" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-fde047?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" height="36" style="margin-right: 4px"></a></p>
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sushilmagare10&theme=gotham&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </p>
-
- **<h3 align="left">Support Me</h3>**
-
-<p align="left"><a href="https://www.patreon.com/davfix" target="_blank"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" height="36" style="margin-right: 4px"></a> <a href="https://buymeacoffee.com/davigomesgy" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-fde047?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" height="36" style="margin-right: 4px"></a></p>
