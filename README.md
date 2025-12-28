@@ -11,7 +11,7 @@
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://www.behance.net/davfix" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/davfix" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="center">an indie game dev</h3>**
+ **<h3 align="left">an indie game dev</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
