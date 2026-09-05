@@ -15,7 +15,7 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **Developing a 2D game**
+- 💼 I'm currently working on: **Programming**
 - 🌱 I'm currently learning: **Learning NodeJS**
 - 💬 Ask me about: **JavaScript, LUA, C++, Tailwind, HTML and CSS**
 - ⚡ Fun fact: **I started programming LUA at 9 years old**
